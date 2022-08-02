@@ -1,0 +1,56 @@
+{
+  "institutions": [
+    {
+      "id": 1,
+      "state": "Maharashtra",
+      "instName": "abc",
+      "instCode": "abc",
+      "diseCode": "abc",
+      "uniState": "abc",
+      "uniName": "abc",
+      "setPass": "abc",
+      "confPass": "abc",
+      "estabCerti": "abc",
+      "affilationCerti": "abc"
+    },
+    {
+      "state": "a",
+      "instName": "b",
+      "instCode": "c",
+      "diseCode": "d",
+      "uniState": "e",
+      "uniName": "f",
+      "setPass": "g",
+      "confPass": "h",
+      "estabCerti": "",
+      "affilationCerti": "",
+      "id": 2
+    },
+    {
+      "state": "a",
+      "instName": "b",
+      "instCode": "c",
+      "diseCode": "d",
+      "uniState": "e",
+      "uniName": "f",
+      "setPass": "g",
+      "confPass": "h",
+      "estabCerti": "",
+      "affilationCerti": "",
+      "id": 3
+    },
+    {
+      "state": "a",
+      "instName": "b",
+      "instCode": "c",
+      "diseCode": "d",
+      "uniState": "e",
+      "uniName": "f",
+      "setPass": "g",
+      "confPass": "h",
+      "estabCerti": "C:\\fakepath\\onsubmit.txt",
+      "affilationCerti": "C:\\fakepath\\form.txt",
+      "id": 4
+    }
+  ]
+}
